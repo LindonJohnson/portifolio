@@ -1,47 +1,53 @@
 {
   "profile": {
     "greeting": "你好！",
-    "name": "我是 Jean Paul",
-    "role": "移动开发者",
-    "description": "拥有6年以上创建直观且安全的移动和Web解决方案。专注于响应式界面、可扩展的设计系统和用户体验。",
-    "username": "origemjhanpoll",
+    "name": "我是 Lindon Johnson Dias",
+    "role": "Web 开发者，",
+    "description": " 拥有2年以上移动端和Web解决方案开发经验。专注于响应式界面、设计系统和用户体验，重点关注数据分析和可视化以支持战略决策。",
+    "username": "lindonjhnson",
     "tags": [
-      "29 y.o",
-      "Flutter",
-      "Dart",
-      "React Native",
       "TypeScript",
-      "Android",
-      "iOS",
+      "JavaScript",
+      "ReactJS",
+      "Next.js",
+      "Styled Components",
+      "Tailwind CSS",
+      "Node.js",
+      "REST APIs",
       "Web",
-      "ReactJs",
-      "JavaScript"
+      "Git",
+      "Data Analysis",
+      "Data Visualization",
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy"
     ],
     "photo": "",
     "buttons": [
       {
         "text": "联系我",
-        "url": "https://api.whatsapp.com/send/?phone=5598991391108"
+        "url": "https://api.whatsapp.com/send/?phone=5589994118783"
       },
       {
         "text": "简历",
-        "url": "https://drive.google.com/file/d/1J75O4x0e6geaZ1Y8wvct3ZmNAmYjTuDM/view?usp=sharing"
+        "url": "#"
       }
     ],
     "localTimeLabel": "当地时间",
-    "address": "São Luís - MA, 巴西"
+    "address": "巴西皮奥伊州安东尼奥阿尔梅达"
   },
   "main": {
     "url": "https://www.pexels.com/pt-br/download/video/12978459/",
-    "title": "您想象的一切，您都可以构建。",
-    "description": "为寻求规模、质量和高水平用户体验的企业定制应用程序开发。",
+    "title": "你能想象的一切，都可以构建。",
+    "description": "为追求规模化、高质量和高水平用户体验的企业创建定制应用程序。",
     "buttonText": ""
   },
   "about": {
-    "title": "关于我",
+    "title": "关于我。",
     "history_label": "经历",
-    "history": "我专注于移动开发，拥有超过6年的经验，为Android、iOS和Web创建强大、直观和安全的解决方案。我精通Flutter、Dart、React Native、React、JavaScript和TypeScript，以及Firebase、Datadog和Codemagic等工具。我擅长创建响应式界面、实施可扩展的设计系统，并始终专注于用户体验。\n\n在我的职业生涯中，我直接参与了各种移动和Web项目的性能改进、代码组织、数据安全和界面组件化工作。我在UX/UI、动效设计以及使用Figma和Adobe Suite进行原型设计方面也有很强的专业能力，利用动画和微交互使产品更具吸引力和愉悦感。",
-    "technologies_label": "技术栈",
+    "history": "我专注于移动端开发，拥有6年以上为Android、iOS和Web创建稳健、直观和安全解决方案的经验。我精通Flutter、Dart、React Native、React、JavaScript和TypeScript，并具有使用Firebase、Datadog和Codemagic等工具的经验。我擅长创建响应式界面、实施可扩展的设计系统，并始终专注于用户体验。\n\n在我的职业生涯中，我直接参与了各种移动端和Web项目的性能改进、代码组织、数据安全和界面组件化工作。我在UX/UI、动效设计以及使用Figma和Adobe Suite进行原型设计方面也有丰富的经验，通过动画和微交互使产品更具吸引力和使用乐趣。",
+    "technologies_label": "技术",
     "technologies": [
       "Flutter",
       "Dart",
@@ -70,14 +76,14 @@
   "projects": {
     "title": "专业项目",
     "title2": "个人项目",
-    "availableInStores": "在商店中可用",
+    "availableInStores": "应用商店可用",
     "screenshots": "截图",
-    "technologies": "技术栈",
+    "technologies": "技术",
     "selectProject": "选择一个项目查看详情",
     "items": [
       {
         "title": "Brasil Card Digital",
-        "description": "数字银行应用程序，具有定制的私人标签卡和BrasilCard信用卡。",
+        "description": "数字银行应用程序，提供定制的自有品牌卡和BrasilCard信用卡。",
         "thumbnail": "https://play-lh.googleusercontent.com/kqDZAOLduP1akYNUsRPMIFN1AnCck2v2k2phWpPgvMOdMOO_TxIYc31x7Id5gGlgKOI",
         "technologies": [
           "Flutter",
@@ -96,7 +102,7 @@
         "appstore": "https://apps.apple.com/br/app/brasilcard-digital/id1593431800?platform=iphone",
         "year": 2025,
         "types": [
-          "Mobile"
+          "移动端"
         ]
       },
       {
@@ -120,13 +126,13 @@
         "appstore": "https://apps.apple.com/bo/app/gupy-educorp/id1287059492?platform=iphone",
         "year": 2021,
         "types": [
-          "Mobile",
+          "移动端",
           "Web"
         ]
       },
       {
         "title": "Maestro Mateus",
-        "description": "超市连锁员工的日常任务管理系统。",
+        "description": "超市连锁店员工的日常例行事务和任务管理系统。",
         "thumbnail": "https://play-lh.googleusercontent.com/Q6af1uoiGbEzxZk3FQsgmS76s4NgIEy0mvrtr9bdku7QpQyegACRkVJAArGL1PeuOwM",
         "technologies": [
           "React Native",
@@ -143,7 +149,7 @@
         "appstore": null,
         "year": 2019,
         "types": [
-          "Mobile",
+          "移动端",
           "Web"
         ]
       }
@@ -153,56 +159,56 @@
     "links": [
       {
         "name": "LinkedIn",
-        "url": "https://linkedin.com/in/origemjhanpoll",
+        "url": "#",
         "label": "LinkedIn"
       },
       {
         "name": "GitHub",
-        "url": "https://github.com/origemjhanpoll",
+        "url": "#",
         "label": "Github"
       },
       {
         "name": "Instagram",
-        "url": "https://instagram.com/origemjhanpoll",
+        "url": "#",
         "label": "Instagram"
       },
       {
         "name": "Telegram",
-        "url": "https://t.me/origemjhanpoll",
+        "url": "#",
         "label": "Telegram"
       }
     ]
   },
   "contact": {
     "title": "联系方式",
-    "description": "我随时欢迎新的机会和合作。请随时通过以下任何渠道与我联系：",
+    "description": "我始终欢迎新的机会和合作。欢迎通过以下任何渠道与我联系：",
     "contact_items": [
       {
         "title": "邮箱",
-        "value": "origemjhanpoll@gmail.com",
+        "value": "lindonjhnson777@gmail.com",
         "icon": "email",
-        "url": "mailto:origemjhanpoll@gmail.com",
+        "url": "mailto:lindonjhnson777@gmail.com",
         "type": "email"
       },
       {
         "title": "WhatsApp",
-        "value": "+55 (98) 99139-1108",
+        "value": "+55 (89) 994111-8783",
         "icon": "whatsapp",
-        "url": "https://api.whatsapp.com/send/?phone=5598991391108",
+        "url": "https://api.whatsapp.com/send/?phone=5589994118783",
         "type": "whatsapp"
       },
       {
         "title": "LinkedIn",
-        "value": "origemjhanpoll",
+        "value": "#",
         "icon": "linkedin",
-        "url": "https://www.linkedin.com/in/origemjhanpoll",
+        "url": "#",
         "type": "linkedin"
       },
       {
         "title": "GitHub",
-        "value": "origemjhanpoll",
+        "value": "#",
         "icon": "github",
-        "url": "https://github.com/origemjhanpoll",
+        "url": "#",
         "type": "github"
       }
     ]

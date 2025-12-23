@@ -1,8 +1,3 @@
-# Portfólio - Jean Paul
-
-Este projeto é o portfólio pessoal e profissional de Jean Paul. O objetivo deste site é apresentar minhas habilidades, experiência, projetos e contatos de forma interativa, moderna e responsiva. O conteúdo é dinâmico e alimentado por arquivos JSON, permitindo fácil manutenção e atualização das informações.
-
-![Screenshot do Portfólio](app/assets/image/screen.png)
 
 ## Tecnologias Utilizadas
 
@@ -64,5 +59,3 @@ app/
     -   `_index.tsx`: É o ponto de entrada da rota principal, orquestrando a montagem dos componentes na página inicial.
 
 ---
-
-Este projeto é mantido por [Jean Paul](https://github.com/origemjhanpoll).

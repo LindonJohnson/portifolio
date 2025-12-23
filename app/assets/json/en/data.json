@@ -1,46 +1,52 @@
 {
   "profile": {
     "greeting": "Hello!",
-    "name": "I'm Jean Paul",
-    "role": "Mobile Developer",
-    "description": "with 6+ years creating intuitive and secure mobile and web solutions. Specialized in responsive interfaces, scalable Design Systems and user experience.",
-    "username": "origemjhanpoll",
+    "name": "I'm Lindon Johnson Dias",
+    "role": "Web Developer,",
+    "description": " +2 years of experience developing mobile and web solutions. Specialized in responsive interfaces, Design Systems and UX, with focus on data analysis and visualization for strategic decisions.",
+    "username": "lindonjhnson",
     "tags": [
-      "29 y.o",
-      "Flutter",
-      "Dart",
-      "React Native",
       "TypeScript",
-      "Android",
-      "iOS",
+      "JavaScript",
+      "ReactJS",
+      "Next.js",
+      "Styled Components",
+      "Tailwind CSS",
+      "Node.js",
+      "REST APIs",
       "Web",
-      "ReactJs",
-      "JavaScript"
+      "Git",
+      "Data Analysis",
+      "Data Visualization",
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy"
     ],
     "photo": "",
     "buttons": [
       {
-        "text": "Contact me",
-        "url": "https://api.whatsapp.com/send/?phone=5598991391108"
+        "text": "Get in touch",
+        "url": "https://api.whatsapp.com/send/?phone=5589994118783"
       },
       {
         "text": "CV",
-        "url": "https://drive.google.com/file/d/1rlh9MO1fLbi7DU9N5q8ILztfteTaI8Yu/view?usp=sharing"
+        "url": "#"
       }
     ],
     "localTimeLabel": "Local Time",
-    "address": "São Luís - MA, Brazil"
+    "address": "Antônio Almeida - PI, Brazil"
   },
   "main": {
     "url": "https://www.pexels.com/pt-br/download/video/12978459/",
-    "title": "Everything you imagine, you can build.",
-    "description": "Custom app development for companies seeking scale, quality and high-level user experience.",
+    "title": "Whatever you imagine, you can build.",
+    "description": "Creating custom applications for companies seeking scale, quality and high-level user experience.",
     "buttonText": ""
   },
   "about": {
-    "title": "A little about me.",
+    "title": "A bit about me.",
     "history_label": "History",
-    "history": "I specialize in mobile development, with over 6 years of experience creating robust, intuitive, and secure solutions for Android, iOS, and web. I have expertise in Flutter, Dart, React Native, React, JavaScript, and TypeScript, as well as experience with tools like Firebase, Datadog, and Codemagic. I excel in creating responsive interfaces, implementing scalable Design Systems, and maintaining a constant focus on user experience.\n\nThroughout my career, I've worked directly on improving performance, code organization, data security, and interface componentization across various mobile and web projects. I also have strong expertise in UX/UI, motion design, and prototyping with Figma and Adobe Suite, using animations and micro-interactions to make products more engaging and pleasant to use.",
+    "history": "I specialize in mobile development, with over 6 years of experience creating robust, intuitive and secure solutions for Android, iOS and web. I have mastery of Flutter, Dart, React Native, React, JavaScript and TypeScript, as well as experience with tools like Firebase, Datadog and Codemagic. I excel in creating responsive interfaces, implementing scalable Design Systems and maintaining constant focus on user experience.\n\nThroughout my career, I have worked directly on improving performance, code organization, data security and interface componentization in various mobile and web projects. I also have strong experience in UX/UI, motion design and prototyping with Figma and Adobe Suite, using animations and micro interactions to make products more engaging and enjoyable to use.",
     "technologies_label": "Technologies",
     "technologies": [
       "Flutter",
@@ -77,7 +83,7 @@
     "items": [
       {
         "title": "Brasil Card Digital",
-        "description": "Digital banking app with customized Private Label cards and BrasilCard credit card.",
+        "description": "Digital bank application with customized Private Label cards and BrasilCard credit card.",
         "thumbnail": "https://play-lh.googleusercontent.com/kqDZAOLduP1akYNUsRPMIFN1AnCck2v2k2phWpPgvMOdMOO_TxIYc31x7Id5gGlgKOI",
         "technologies": [
           "Flutter",
@@ -126,7 +132,7 @@
       },
       {
         "title": "Maestro Mateus",
-        "description": "Routine and daily task management system for supermarket chain employees.",
+        "description": "Daily routine and task management system for supermarket chain employees.",
         "thumbnail": "https://play-lh.googleusercontent.com/Q6af1uoiGbEzxZk3FQsgmS76s4NgIEy0mvrtr9bdku7QpQyegACRkVJAArGL1PeuOwM",
         "technologies": [
           "React Native",
@@ -153,56 +159,56 @@
     "links": [
       {
         "name": "LinkedIn",
-        "url": "https://linkedin.com/in/origemjhanpoll",
+        "url": "#",
         "label": "LinkedIn"
       },
       {
         "name": "GitHub",
-        "url": "https://github.com/origemjhanpoll",
+        "url": "#",
         "label": "Github"
       },
       {
         "name": "Instagram",
-        "url": "https://instagram.com/origemjhanpoll",
+        "url": "#",
         "label": "Instagram"
       },
       {
         "name": "Telegram",
-        "url": "https://t.me/origemjhanpoll",
+        "url": "#",
         "label": "Telegram"
       }
     ]
   },
   "contact": {
     "title": "Get in Touch",
-    "description": "I'm always open to new opportunities and collaborations. Feel free to reach out through any of the channels below:",
+    "description": "I'm always open to new opportunities and collaborations. Feel free to contact me through any of the channels below:",
     "contact_items": [
       {
         "title": "Email",
-        "value": "origemjhanpoll@gmail.com",
+        "value": "lindonjhnson777@gmail.com",
         "icon": "email",
-        "url": "mailto:origemjhanpoll@gmail.com",
+        "url": "mailto:lindonjhnson777@gmail.com",
         "type": "email"
       },
       {
         "title": "WhatsApp",
-        "value": "+55 (98) 99139-1108",
+        "value": "+55 (89) 994111-8783",
         "icon": "whatsapp",
-        "url": "https://api.whatsapp.com/send/?phone=5598991391108",
+        "url": "https://api.whatsapp.com/send/?phone=5589994118783",
         "type": "whatsapp"
       },
       {
         "title": "LinkedIn",
-        "value": "origemjhanpoll",
+        "value": "#",
         "icon": "linkedin",
-        "url": "https://www.linkedin.com/in/origemjhanpoll",
+        "url": "#",
         "type": "linkedin"
       },
       {
         "title": "GitHub",
-        "value": "origemjhanpoll",
+        "value": "#",
         "icon": "github",
-        "url": "https://github.com/origemjhanpoll",
+        "url": "#",
         "type": "github"
       }
     ]

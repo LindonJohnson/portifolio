@@ -6,8 +6,8 @@ import { Social, Main, Projects, Local, Profile, Details, Button } from "~/compo
 import { getProfileService, getProjectsService, getMainService, getSocialService } from "~/services";
 
 import iconBR from "../assets/png/br.png";
-import iconCN from "../assets/png/cn.png";
-import iconUS from "../assets/png/us.png";
+// import iconCN from "../assets/png/cn.png";
+// import iconUS from "../assets/png/us.png";
 import Actions from "~/components/actions";
 
 
@@ -41,8 +41,8 @@ export default function Home() {
 
   const flags = [
     { icon: iconBR, locale: 'pt' },
-    { icon: iconUS, locale: 'en' },
-    { icon: iconCN, locale: 'cn' }
+    // { icon: iconUS, locale: 'en' },
+    // { icon: iconCN, locale: 'cn' }
   ];
 
   const profileData = getProfileService(locale);

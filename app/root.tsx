@@ -30,7 +30,7 @@ export const links: Route.LinksFunction = () => [
 
 export const meta: Route.MetaFunction = () => {
   return [
-    { title: "Jean Paul — Mobile Developer" },
+    { title: "Lindon Johnson — Web Developer" },
     {
       name: "description",
       content: "Veja meus projetos, serviços e soluções digitais.",

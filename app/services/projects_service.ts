@@ -25,11 +25,18 @@ export const getProjectsService = async (locale: string = 'pt') => {
       data = dataPt;
   }
   try {
-    const response = await fetch('https://api.github.com/users/origemjhanpoll/repos');
+    const response = await fetch('https://api.github.com/users/LindonJohnson/repos');
     const githubRepos: GitHubRepo[] = await response.json();
 
+
+    // const githubProjects = githubRepos
+    //   .filter(repo => repo.description && repo.topics.includes('origemjhanpoll'))
+
+
+
+
     const githubProjects = githubRepos
-      .filter(repo => repo.description && repo.topics.includes('origemjhanpoll'))
+      .filter(repo => repo)
       .map(repo => ({
         title: repo.name.replace(/-/g, ' '),
         description: repo.description || '',
@@ -50,7 +57,8 @@ export const getProjectsService = async (locale: string = 'pt') => {
         items: githubProjects
       },
       translations: {
-        availableInStores: data.projects.availableInStores,
+        //  availableInStores: data.projects.availableInStores,
+        availableInStores: data.projects,
         screenshots: data.projects.screenshots,
         technologies: data.projects.technologies,
         selectProject: data.projects.selectProject
@@ -68,7 +76,8 @@ export const getProjectsService = async (locale: string = 'pt') => {
         items: []
       },
       translations: {
-        availableInStores: data.projects.availableInStores,
+        // availableInStores: data.projects.availableInStores,
+        availableInStores: data.projects,
         screenshots: data.projects.screenshots,
         technologies: data.projects.technologies,
         selectProject: data.projects.selectProject

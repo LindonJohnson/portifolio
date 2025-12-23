@@ -76,31 +76,87 @@
   "projects": {
     "title": "PROFISSIONAL",
     "title2": "PESSOAL",
-    
+    "availableInStores": "Disponível nas lojas",
     "screenshots": "Screenshots",
     "technologies": "Tecnologias",
     "selectProject": "Selecione um projeto para ver os detalhes",
     "items": [
       {
-        "title": "Estágio - JVM Webmarketing",
-        "description": "JVM Webmarketing (ou JVM Comunicação e Tecnologia) é uma agência de marketing digital que oferece soluções completas para empresas, incluindo desenvolvimento de sites, sistemas web, gestão de redes sociais, produção de conteúdo (vídeos, design), hospedagem e automação, focando em melhorar o posicionamento online e aumentar o faturamento de seus clientes, com atuação nacional e internacional.",
-        "thumbnail": "https://media.licdn.com/dms/image/v2/D4D0BAQHQ63n4SZ4QZw/company-logo_100_100/company-logo_100_100/0/1688661059053?e=1767830400&v=beta&t=79onNLxsXce2Zlqv1Nr1cNTJKiJI7Sl4kan9ocnw4sc",
+        "title": "Brasil Card Digital",
+        "description": "Aplicativo de banco digital com cartões Private Label customizados e cartão de crédito BrasilCard.",
+        "thumbnail": "https://play-lh.googleusercontent.com/kqDZAOLduP1akYNUsRPMIFN1AnCck2v2k2phWpPgvMOdMOO_TxIYc31x7Id5gGlgKOI",
         "technologies": [
-          "React",
-          "TypeScript"
+          "Flutter",
+          "Dart",
+          "Firebase",
+          "Codemagic"
         ],
         "images": [
-          
+          "https://play-lh.googleusercontent.com/1tYBASzpRyGctM0kcRCaAwQ3V9Qx_Mf-YVJ_ZhWQfrSi-52dNXHTURLZ2z3tm5WC__au",
+          "https://play-lh.googleusercontent.com/SPMGYAN8H6S2QNmYCUZdNQFi8pdWtXbEiYl-0QyUg1VeQiT9athOiq24SNdsSujQ1A",
+          "https://play-lh.googleusercontent.com/SYhepOiQ556VYdKyqHSuW3CD-hQaBBqdm3a4wxhwQFog3-JCtrxEVQO-JqnsJmg0jVM"
         ],
-        "url": "https://jvm-webmarketing.vercel.app/",
+        "url": "https://www.brasilcarddigital.com.br",
         "github": null,
-       
+        "playstore": "https://play.google.com/store/apps/details?id=br.com.brasilcard.app_banco_digital",
+        "appstore": "https://apps.apple.com/br/app/brasilcard-digital/id1593431800?platform=iphone",
         "year": 2025,
         "types": [
           "Mobile"
         ]
-      }   
+      },
+
       
+      {
+        "title": "Gupy EduCorp",
+        "description": "Plataforma de educação corporativa com gamificação, ranking, pontos e quiz interativo para treinamento de colaboradores.",
+        "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/5c/d2/575cd282-7fea-b019-2566-4edbc5375a59/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/217x0w.webp",
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Firebase",
+          "Codemagic"
+        ],
+        "images": [
+          "https://play-lh.googleusercontent.com/Vey5GE62pfmHe9f7yOgfLwg-1ZFVx5CbP0rz5xcJ52DkSwR1GRNBkZkMUFqsDEFW0pU",
+          "https://play-lh.googleusercontent.com/kF08zTJcjcpWcff14M7V6mK2-vCwdAWUi5B_pzVRzeZxF4i7-6K7oIWIz9Q9tGuAuzo",
+          "https://play-lh.googleusercontent.com/Fj4zrwjdBzRjVFG7Vbnnlz-WW9GBlQBRPxp7oRnu2Ttpu-c5j4Rs3OvqLFlNqrEFPtM"
+        ],
+        "url": "https://www.gupy.io/plataforma-de-educacao-corporativa",
+        "github": null,
+        "playstore": "https://play.google.com/store/apps/details?id=com.workeduc.appv4&hl",
+        "appstore": "https://apps.apple.com/bo/app/gupy-educorp/id1287059492?platform=iphone",
+        "year": 2021,
+        "types": [
+          "Mobile",
+          "Web"
+        ]
+      },
+
+
+      {
+        "title": "Maestro Mateus",
+        "description": "Sistema de gestão de rotinas e tarefas diárias para colaboradores de rede de supermercados.",
+        "thumbnail": "https://play-lh.googleusercontent.com/Q6af1uoiGbEzxZk3FQsgmS76s4NgIEy0mvrtr9bdku7QpQyegACRkVJAArGL1PeuOwM",
+        "technologies": [
+          "React Native",
+          "Firebase"
+        ],
+        "images": [
+          "https://play-lh.googleusercontent.com/tPZK5HpZXwaxrKouU7X-jajx0hhS-RuUlAjXHbcmrY3Pn4qqtaSnHlAy07hiOQlFAQ",
+          "https://play-lh.googleusercontent.com/kEKEa0n5shFtALPwe5LGhrVSEzFrh76IJE92rn1gS7AsLpAZ-otlJtV6K0Ui-5By1YM",
+          "https://play-lh.googleusercontent.com/CsCCAAmb2_BkDeVi3EvptZLHH7HY0Y2y1_83qcEbkpmw7JSqanXcSmFlgc1L2XpdQDk"
+        ],
+        "url": "https://www.linkedin.com/company/pulseoficial/",
+        "github": null,
+        "playstore": "https://play.google.com/store/apps/details?id=com.ithappens_piloto_app",
+        "appstore": null,
+        "year": 2019,
+        "types": [
+          "Mobile",
+          "Web"
+        ]
+      }
     ]
   },
   "social": {
