@@ -10,6 +10,9 @@ interface GitHubRepo {
   default_branch: string;
   language: string | null;
   topics: string[];
+  created_at: string;  // Data de criação
+  updated_at: string;  // Data de última atualização
+  pushed_at: string;   // Data do último push
 }
 
 export const getProjectsService = async (locale: string = 'pt') => {
@@ -36,6 +39,9 @@ export const getProjectsService = async (locale: string = 'pt') => {
 
 
     const githubProjects = githubRepos
+      .sort((a, b) =>{
+        return new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime();
+      })
       .filter(repo => repo)
       .map(repo => ({
         title: repo.name.replace(/-/g, ' '),

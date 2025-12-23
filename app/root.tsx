@@ -23,8 +23,8 @@ export const links: Route.LinksFunction = () => [
   },
   {
     rel: "icon",
-    href: "/favicon.ico",
-    type: "image/x-icon",
+    href: "/favicon.jpg",
+    type: "image/jpeg",
   },
 ];
 
@@ -37,7 +37,7 @@ export const meta: Route.MetaFunction = () => {
     },
     {
       property: "og:title",
-      content: "Jean Paul — Mobile Developer",
+      content: "Lindon Johnson — Web Developer",
     },
     {
       property: "og:description",
@@ -49,15 +49,15 @@ export const meta: Route.MetaFunction = () => {
     },
     {
       property: "og:image",
-      content: "https://origemjhanpoll.com/tumblr.jpg",
+      content: "#",
     },
     {
       property: "twitter:image",
-      content: "https://origemjhanpoll.com/tumblr.jpg",
+      content: "#",
     },
     {
       name: "image",
-      content: "https://origemjhanpoll.com/tumblr.jpg",
+      content: "#",
     },
   ];
 };
