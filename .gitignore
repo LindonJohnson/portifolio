@@ -1,7 +1,8 @@
 .DS_Store
 .env
 /node_modules/
-.github/
+/.github/
+/.vscode/
 
 # React Router
 /.react-router/
