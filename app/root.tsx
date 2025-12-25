@@ -9,6 +9,9 @@ import {
 
 import type { Route } from "./+types/root";
 import "./app.css";
+import { ImPower } from "react-icons/im";
+import favcon from "app/assets/svg/favcon.svg"
+
 
 export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -23,8 +26,8 @@ export const links: Route.LinksFunction = () => [
   },
   {
     rel: "icon",
-    href: "/favicon.jpg",
-    type: "image/jpeg",
+    href: favcon,
+    type: "image/svg+xml",
   },
 ];
 
